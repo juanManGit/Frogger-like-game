@@ -6,7 +6,9 @@
 ## Table of Contents
 
 [Instructions](#instructions)
+
 [How to Run](#How-to-run)
+
 [How to Play](#How-to-play)
 
 ## Instructions
