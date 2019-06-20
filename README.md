@@ -26,7 +26,6 @@ This game consists of 5 main Javascript files, a CSS stylesheet, an index.html f
 **app.css:** It contains the CSS classes used in the game.
 
 
-In order to run the game, the index.html file must be opened. 
 
 ## How to run
 
