@@ -6,6 +6,8 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [How to run](#How to run)
+
 
 ## Instructions
 
@@ -24,12 +26,12 @@ app.css: It contains the CSS classes used in the game.
 
 In order to run the game, the index.html file must be opened. 
 
-### How to run
+## How to run
 
 In order to play this game go to the game's main folder and double-click index.html using a HTML5 and ES6 compatible browser.
 
 
-### How to play
+## How to play
 
 The game consists of a player character spawning at the lower part of the world map and multiple enemies bugs which will randomly spawn and cross the screen in random intervals. The objective of the game is to cross the world map and reach the top row of the world while avoding getting in contact with the bugs. If an enemy bug gets in contact with the player the player's position will be reset and they will relocated at their initial position. 
 
