@@ -5,11 +5,11 @@
 
 ## Table of Contents
 
-[Instructions](#instructions)
+* [Instructions](#instructions)
 
-[How to Run](#How-to-run)
+* [How to Run](#How-to-run)
 
-[How to Play](#How-to-play)
+* [How to Play](#How-to-play)
 
 ## Instructions
 
