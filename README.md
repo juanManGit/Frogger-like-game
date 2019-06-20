@@ -15,15 +15,15 @@
 
 This game consists of 5 main Javascript files, a CSS stylesheet, an index.html file and some visual assets provided by Udacity. 
 
-index.html: It contains the html file for the game. Used for initialization.
+**index.html:** It contains the html file for the game. Used for initialization.
 
-app.js: It contains the player and enemy constructors, an update method with a collision detection system and the winning and losing conditions, and it also handles and user input.
+**app.js:** It contains the player and enemy constructors, an update method with a collision detection system and the winning and losing conditions, and it also handles and user input.
 
-engine.js: It contains the game loop.
+**engine.js:** It contains the game loop.
 
-resources.js: It does some caching of the visual assets of the game. 
+**resources.js:** It does some caching of the visual assets of the game. 
 
-app.css: It contains the CSS classes used in the game.
+**app.css:** It contains the CSS classes used in the game.
 
 
 In order to run the game, the index.html file must be opened. 
