@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+[Instructions](#instructions)
 * [How to run](#How to run)
 
 
