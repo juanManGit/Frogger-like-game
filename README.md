@@ -26,7 +26,7 @@ app.css: It contains the CSS classes used in the game.
 
 In order to run the game, the index.html file must be opened. 
 
-## How-to-trun
+## How-to-run
 
 In order to play this game go to the game's main folder and double-click index.html using a HTML5 and ES6 compatible browser.
 
