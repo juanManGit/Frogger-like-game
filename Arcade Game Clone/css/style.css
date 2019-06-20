@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    
+}
+
+#won {
+    font-size: 3em;
+    display: none;
+    z-index: 200;
+    margin-top: 250px;
+    margin-left: 650px;
+    position: absolute;
+    
+}
+
+#blocker {
+    display: none;
+    height: 600px;
+    width: 900px;
+    margin-left: 300px;
+    margin-right: 300px;
+    z-index: 100;
+    position: absolute;
+    background-color: white;
+}
