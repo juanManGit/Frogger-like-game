@@ -6,8 +6,8 @@
 ## Table of Contents
 
 [Instructions](#instructions)
-[How to run](#How-to-run)
-
+[How to Run](#How-to-run)
+[How to Play](#How-to-play)
 
 ## Instructions
 
