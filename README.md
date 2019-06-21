@@ -29,7 +29,7 @@ This game consists of 5 main Javascript files, a CSS stylesheet, an index.html f
 
 ## How to run
 
-In order to play this game go to the game's main folder and double-click index.html using a HTML5 and ES6 compatible browser.
+In order to play this game clone/fork this project and go to the game's main folder and double-click index.html using a HTML5 and ES6 compatible browser.
 
 
 ## How to play
