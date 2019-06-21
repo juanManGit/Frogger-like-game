@@ -56,7 +56,7 @@ Enemy.prototype.update = function(dt) {
             this.rightBorder = this.getRandom(500, 900)};
     
     // Collision detection. Calculates the distance between this instance and the player vehicle. If collision is true resets player's position.
-    if (this.distance(this.centerX,this.centerY,                player.centerX,player.centerY) < 70) {
+    if (this.distance( this.centerX ,this.centerY, player.centerX, player.centerY ) < 70) {
         
             player.pos[0] = player.Startpos[0];
             player.pos[1] = player.Startpos[1]
@@ -65,14 +65,10 @@ Enemy.prototype.update = function(dt) {
 
 // Draw the enemy on the screen, required method for game
 Enemy.prototype.render = function() {
-    //ctx.arc(this.centerX, this.centerY, this.radius, 0, 2 * Math.PI);
-    //ctx.fillStyle = "red";
-    //ctx.fill();
-    // index 0 = X axis, index 1 = Y axis
+
     ctx.drawImage(Resources.get(this.sprite), this.pos[0], this.pos[1]); 
 
-    
-    
+       
 };
 
 function Player () {
@@ -95,8 +91,8 @@ function Player () {
     this.centerY = this.pos[1] + this.yOffset; 
     this.yOffset = 98.5; 
     this.xOffset = 50.5;
-    //this.radius = 35;
     
+ 
     }
     
 
@@ -138,11 +134,8 @@ Player.prototype.update = function (e){
 
 Player.prototype.render = function(){
     ctx.drawImage(Resources.get(this.sprite), this.pos[0], this.pos[1])
-    //ctx.arc(this.centerX, this.centerY, this.radius, 0, 2 * Math.PI);
-    //ctx.fillStyle = "blue";
-    //ctx.fill();
-}
 
+}
 
 
 // This listens for key presses and sends the keys to your
