@@ -46,7 +46,7 @@ Enemy.prototype.update = function(dt) {
     this.centerX = this.pos[0] + this.xOffset;
     this.centerY = this.pos[1] + this.yOffset; 
 
-    //if this instance has not reach the right border of the scene increase X
+    //if this instance has not reached the right border of the scene increase X
     if (this.pos[0] < this.rightBorder ){
         
             this.pos[0] = this.pos[0] + 250 * dt;
